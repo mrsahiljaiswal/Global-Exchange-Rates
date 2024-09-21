@@ -93,4 +93,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgements
 
-Exchange rate data provided by [API Provider Name].
+Exchange rate data provided by 
