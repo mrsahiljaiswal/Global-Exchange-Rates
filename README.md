@@ -94,3 +94,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgements
 
 Exchange rate data provided by 
+-https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/inr.json
